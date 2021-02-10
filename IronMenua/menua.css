@@ -1,0 +1,48 @@
+a {
+   color:red;
+   font-size:40px; 
+   border-radius:20px;
+ 
+ 
+}
+
+
+div{
+   color:blue;	
+}
+
+#menua{
+	color:purple
+}
+
+h1{
+   border:15px solid blue
+}
+
+img{
+   border:10px solid purple
+}
+
+h1:hover{
+	border:13px solid blue
+    border-radius:30px;
+
+}
+   
+#menua:hover{
+	border:13px solid blue
+}
+
+#iron{
+	background-color:green
+    color:yellow
+
+}
+
+
+p{
+ font-size:60px
+}
+
+  
+ 
